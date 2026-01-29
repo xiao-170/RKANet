@@ -1,0 +1,19 @@
+{
+  "arch": "RKANet",
+  "input_shape": [
+    3,
+    256,
+    256
+  ],
+  "params_total": 7267537,
+  "params_trainable": 7267537,
+  "params_by_type": {
+    "KAN": 3993600,
+    "Conv2d": 2352625,
+    "Linear": 878464,
+    "Mamba": 23936,
+    "BatchNorm2d": 6816,
+    "LayerNorm": 5056
+  },
+  "flops": 2898735616
+}
